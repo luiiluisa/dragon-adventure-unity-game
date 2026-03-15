@@ -14,4 +14,4 @@ The project documentation will be added at the end of the project.
 
 ## Tehnology
 Unity
-C#
+ C#

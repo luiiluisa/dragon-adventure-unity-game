@@ -12,6 +12,6 @@ The Game/GameLook folder contains images showing how the game currently looks.
 The Game/Scripts folder contains the C# scripts used in the game so far.  
 The project documentation will be added at the end of the project.
 
-##Tehnology
+## Tehnology
 Unity
 C#
